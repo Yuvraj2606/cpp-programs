@@ -1,2 +1,2 @@
-# C-Program
+# C++ Program
 Practise Questions 
