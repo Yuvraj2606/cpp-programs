@@ -29,7 +29,7 @@ int main()
             cout<<"Sunday";
             break;
         default : 
-            cout<<"Worng Choose";
+            cout<<"Wrong Choose";
     }
     return 0;
 }
