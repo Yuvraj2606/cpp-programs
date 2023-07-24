@@ -92,14 +92,73 @@ using namespace std;
 //     return 0;
 // }
 
-int main()
-{
-    int n,sum =0;
-    cin>>n;
-    for (int i = 0; i <=n; i++)
-    {
-       sum = sum+i;
-    }
-    cout<<"The sum is : "<<sum<<endl;
-    return 0;
-}
+// int main()
+// {
+//     int n,sum =0;
+//     cin>>n;
+//     for (int i = 0; i <=n; i++)
+//     {
+//        sum = sum+i;
+//     }
+//     cout<<"The sum is : "<<sum<<endl;
+//     return 0;
+// }
+
+// //int main()
+// {
+//     // int a[10] = {1};
+//     // for(int i=0;i<10;i++)
+//     // {
+//     //     cout<<a[i]<<endl;
+//     // }
+//     // return 0;
+
+// }
+
+
+// int main() 
+// {
+//   int n;
+//   cout << "Enter the size of the array: ";
+//   cin >> n;
+
+//   int arr[n];
+//   for (int i = 0; i < n; i++) {
+//     arr[i] = 1;
+//   }
+
+//   cout << "The array with all values 1 is: ";
+//   for (int i = 0; i < n; i++) {
+//     cout << arr[i] << " ";
+//   }
+
+//   cout << endl;
+
+//   return 0;
+// }
+   
+
+// int main()
+// {
+//      int third[] = {2,7,3};
+//      char ch[5] = {'a', 'b', 'c', 'r', 'p'}; 
+//      double firstDouble[5];
+//      float firstFloat[6];
+//      bool firstBool[9];
+//     //int n = 15;
+//     //printArray(third, 15);
+//     int thirdSize = sizeof(third)/sizeof(int);
+//     int chsize = sizeof(ch);
+//     int dsize = sizeof(firstDouble)/sizeof(double);
+//     int fsize = sizeof(firstFloat)/sizeof(float);
+//     int bsize = sizeof(firstBool);
+//     cout<<" Size of Third is " << thirdSize <<endl;
+//     cout<<"Size of ch is : "<<chsize<<endl;
+//     cout<<"Size of double is : "<<dsize<<endl;
+//     cout<<"Size of float is : "<<fsize<<endl;
+//     cout<<"Size of bool is : "<<bsize<<endl;
+//     return 0;
+// }
+
+
+
