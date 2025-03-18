@@ -116,7 +116,7 @@
 //         k++;
 //     }
 // }
-// void print(int *arr, int n)
+// void print(int *arr, int n) // HERE WE CAN WRITE IT AS void print(int arr[], int n)
 // {
 //     cout << "Merged Sorted Array : ";
 //     for (int i = 0; i < n; i++)
